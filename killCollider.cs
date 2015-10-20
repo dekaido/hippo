@@ -1,6 +1,8 @@
 using UnityEngine;
 using System.Collections;
 
+//Attach to a Sprite with 2DRigidBody and BoxCollider2D
+
 public class volume : MonoBehaviour {
 
     public bool collided = false;
